@@ -39,4 +39,9 @@ func main() {
 	for k, v := range usuario{
 		fmt.Println(k,v)
 	}
+
+	for {
+			fmt.Println("Executando infinitamente...")
+	}
+
 }
